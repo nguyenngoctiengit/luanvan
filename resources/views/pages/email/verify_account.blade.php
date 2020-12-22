@@ -1,0 +1,1 @@
+<p>Bạn đã đăng ký trở thành thành viên của chúng tôi vui lòng hoàn thành bằng cách Click <a href="{{$route}}">vào đây</a>để xác nhận tài khoản thành công</p>

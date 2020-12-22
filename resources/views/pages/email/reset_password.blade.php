@@ -1,0 +1,1 @@
+<p>Bạn lấy lại mật khẩu vui lòng hoàn thành bằng cách Click <a href="{{$route}}">vào đây</a>để tiến hành reset mật khẩu</p>
